@@ -33,7 +33,16 @@ Actualmente también incorporo herramientas de inteligencia artificial en mi flu
 
 **Inteligencia artificial**
 
-Claude Code · OpenAI Codex · AI-assisted development
+<p align="left">
+  <a href="https://claude.ai/code">
+    <img src="https://cdn.simpleicons.org/anthropic/D97757" width="20" height="20" alt="Claude Code" />
+  </a>
+  <strong> Claude Code</strong> ·
+  <a href="https://openai.com/codex/">
+    <img src="https://cdn.simpleicons.org/openai/412991" width="20" height="20" alt="OpenAI Codex" />
+  </a>
+  <strong> OpenAI Codex</strong> · AI-assisted development
+</p>
 
 ---
 
