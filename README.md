@@ -67,7 +67,7 @@ Proyecto personal orientado a la gestión de un taller mecánico, explorando el 
 ### 📫 Contacto
 
 - 📧 Email: guidojdealbera@gmail.com
-- 💼 LinkedIn: [Guido Dealbera](https://www.linkedin.com/in/guido-dealbera/)
+- 💼 LinkedIn: [Guido Dealbera](https://www.linkedin.com/in/guido-josé-dealbera/)
 - 🌐 Portfolio: [guidodealbera-dev.vercel.app](https://guidodealbera-dev.vercel.app)
 - 🐙 GitHub: [@guidodealbera](https://github.com/guidodealbera)
 
@@ -76,8 +76,16 @@ Proyecto personal orientado a la gestión de un taller mecánico, explorando el 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guidodealbera&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidodealbera&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=guidodealbera&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Guido's GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=guidodealbera&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
